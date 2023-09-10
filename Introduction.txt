@@ -1,4 +1,3 @@
-<b>
 Genlte Reminder!
 - To read Quran for 30minutes
 - To increase arabic voacubalary
@@ -12,4 +11,4 @@ Genlte Reminder!
 لزيادة المفردات العربية
 لإكمال تدريب الكتاب
 انظر استمع كرر
-</b>
+
