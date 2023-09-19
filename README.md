@@ -3,22 +3,20 @@
 This is the website that we could use for our references. - هذا هو الموقع الذي يمكننا استخدامه كمراجع لدينا
 
 - Group #1 - المجموعة أولا
- 1. Mohammed Afzal 
- 2. Mohammed Ameen
+ 1. Sabeer
+ 2. Abdul Jaleelka
+ 3. AbdulRahman bin Sabeer
 - Group #2 - المجموعة الثانية
- 3. Sabeer Zubair
- 4. Mohammed Arshed
+ 4. Farseen 
+ 5. Ebrahim bin Sabeer
 - Group #3 - المجموعة الثالثة
- 5. Farseen
- 6. Ali
+ 6. Ahmed Hassan bin Afzal
+ 7. Ali Khan
 - Group #4 - المجموعة الرابعة
- 7. Ahmed Hassan bin Afzal
- 8. Ebrahim Sabeer
+ 8. Mohammed Ameen
+ 9. Abdul Rahmanka
 - Group #5 - المجموعة الخامسة
- 9. Abu Mohammed PMS
- 10. Abu Maryum
-- Group #6 - المجموعة السادسة
- 11. Abdul Jaleelka PMS
- 12. Sabeer Zubair
+10. Mohammed Afzalka
+11. Hashir
 
 
