@@ -3,7 +3,7 @@
 This is the website that we could use for our references. - هذا هو الموقع الذي يمكننا استخدامه كمراجع لدينا
 
 - Group #1 - المجموعة أولا
- 1. Sabeer
+ 1. Sabeer 
  2. Abdul Jaleelka
  3. AbdulRahman bin Sabeer
 - Group #2 - المجموعة الثانية
@@ -13,10 +13,10 @@ This is the website that we could use for our references. - هذا هو المو
  6. Ahmed Hassan bin Afzal
  7. Ali Khan
 - Group #4 - المجموعة الرابعة
- 8. Mohammed Ameen
+ 8. Mohammed Ameenka
  9. Abdul Rahmanka
 - Group #5 - المجموعة الخامسة
 10. Mohammed Afzalka
-11. Hashir
+11. Hashirka
 
 
